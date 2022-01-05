@@ -1,0 +1,15 @@
+.big {
+  color: red;
+  font-size: xx-large;
+}
+
+.sidebar {
+  background-color: red;
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(54, 54, 54);
+}
+img {
+  float: left;
+}
