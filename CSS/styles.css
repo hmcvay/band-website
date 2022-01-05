@@ -9,7 +9,11 @@
   font-style: italic;
   font-weight: bold;
   color: rgb(54, 54, 54);
+  border-width: 20px;
+  padding: 20px;
+  margin-bottom: 10px;
 }
 img {
   float: left;
+  padding: 20px;
 }
